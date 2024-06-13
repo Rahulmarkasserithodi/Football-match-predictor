@@ -1,8 +1,6 @@
 # Football-match-predictor
 Predicts the outcome of a Premier league game using Machine Learning algorithm 
 
-# Football Match Outcome Predictor
-
 Football is loved and played by millions of people. The official governing body of football, FIFA (Federation Internationale de Football Association), estimated that there were about 260 million football players and over 1.3 billion are interested. Hence, it is only natural that people would love to speculate the outcome of upcoming matches. This project aims to predict football match outcomes using machine learning algorithms combining various datasets.
 
 ## Table of Contents
